@@ -11,11 +11,12 @@ you don't.
 
 **[powercademy-skills](https://github.com/Powercademy/powercademy-skills)** —
 an open, opinionated plugin marketplace of Power Platform delivery skills for
-AI coding agents (Claude Code and GitHub Copilot CLI). Methodology layered on
-top of Microsoft's official plugins: designer-ready build specs with testing
-checkpoints, a toolchain doctor, canvas and PCF planning, and living
-gotchas logs grown from real engagements — every rule ships with its
-reasoning, and every skill's triggers are eval-tested.
+AI coding agents — GitHub Copilot CLI and Claude Code, every skill in both.
+Methodology layered on top of Microsoft's official plugins: one-conversation
+workstation setup and a toolchain doctor, canvas and PCF planning, ALM process
+design and checkpointed promotion, and living conventions and gotchas logs
+grown from real engagements. Every rule ships with its reasoning, and setup is
+proven on clean Windows, macOS and Linux machines.
 
 ## Elsewhere
 
