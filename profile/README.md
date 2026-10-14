@@ -13,9 +13,9 @@ you don't.
 an open, opinionated plugin marketplace of Power Platform delivery skills for
 AI coding agents — GitHub Copilot CLI and Claude Code, every skill in both.
 Methodology layered on top of Microsoft's official plugins: one-conversation
-workstation setup and a toolchain doctor, canvas and PCF planning, ALM process
-design and checkpointed promotion, and living conventions and gotchas logs
-grown from real engagements. Every rule ships with its reasoning, and setup is
+workstation setup and a toolchain doctor, canvas app planning, ALM process
+design and checkpointed promotion, and living conventions for Dataverse, flows
+and PCF grown from real engagements. Every rule ships with its reasoning, and setup is
 proven on clean Windows, macOS and Linux machines.
 
 ## Elsewhere
